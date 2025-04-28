@@ -1,6 +1,6 @@
 # TM2
 TCDformer-based Momentum Transfer Model for Long-term Sports Prediction Open source code
-<<<<<<< HEAD
+
 ## Dataset
 We conducted experiments on multiple sports event datasets, including ETTh1, NBA, and Beach Volleyball. A brief description is as follows:
 
