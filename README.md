@@ -1,5 +1,6 @@
 # TM2
 TCDformer-based Momentum Transfer Model for Long-term Sports Prediction Open source code
+<<<<<<< HEAD
 ## Dataset
 We conducted experiments on multiple sports event datasets, including ETTh1, NBA, and Beach Volleyball. A brief description is as follows:
 
@@ -24,3 +25,11 @@ ETTh1, NBA dataset, and Beach Volleyball dataset all have more change points. ET
 ## Benchmarks models
 To validate our model, we conduct extensive experiments comparing TM2 with baseline models (ELO, decision trees, logistic regression , support vector machines, random forests) and advanced neural architectures (Mamba4Cast , Seq2Event) on multiple evaluation metrics. 
 
+=======
+## Data
+\data\processed_TCDformer_200.csv is the dynamic momentum data.
+
+\data\processed_TCDformer.csv is the static momentum data.
+## Run
+\tcd\run.py is the run file, in which the used data set, prediction length and other parameters can be modified
+>>>>>>> 1f9721fbec452b7ca0c104ad83716d3102c43b2c
